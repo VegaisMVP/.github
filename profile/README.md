@@ -152,7 +152,7 @@ In **VEGAIS**, every player can become a strategist.
    - Stake $VEGAIS to create >2 strategies, unlock backtests, or view odds source  
    - Earn protocol rewards when others win using your strategy
 
-3. **Prediction Vaults**  
+3. **Prediction Fund**  
    - A fully-managed public prediction fund run by **VEGAIS**  
    - Users deposit funds — no need to select strategies, odds, or bets  
    - AI handles everything end-to-end: match selection → bet → yield reinvestment  
