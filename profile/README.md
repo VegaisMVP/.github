@@ -30,6 +30,7 @@ Everything else is noise.
 | 💥 **Casino Coin LaunchPad** | 🚀 In Queue | Every game that makes money gets its own token. Permissionless. |
 
 ---
+---
 
 ## 🧠 SPORTS PREDICT — Betting Is Dead. Predicting Is Code.
 
@@ -62,17 +63,17 @@ while making every AI execution transparent and trustworthy.**
 
 ### 🧬 Our AI-Based Solution — Three Steps to Fair Odds
 
-#### ✅ Step 1: Predict Match Outcomes
+#### Step 1: Predict Match Outcomes
 
 - Multi-model AI (LSTM + XGBoost + GPT) outputs win probabilities  
 - Complete model-training on 5+ years of real match data across 12 leagues
 
-#### ✅ Step 2: Build Strategies from AI + Odds
+#### Step 2: Build Strategies from AI + Odds
 
 - Compare AI probabilities to bookmaker odds  
 - Construct optimal bet structures via Kelly logic & hedge trees
 
-#### ✅ Step 3: Fully Automated Execution
+#### Step 3: Fully Automated Execution
 
 - Agent places, manages, and claims bets  
 - Cross-platform, and recorded fully on-chain
@@ -173,8 +174,9 @@ In **VEGAIS**, every player can become a strategist.
 - **AI Models**: LSTM + GPT + XGBoost ensembles  
 - **Execution Infra**: Off-chain agent + gas-efficient smart contract layer  
 - **Frontend**: Next.js + Tailwind + agent chat UI  
-- **Blockchain**: TON, Solana, and zk integrations in progress
+- **Blockchain**: BSC, Solana, and Base integrations in progress
 
+---
 ---
 
 ## 🎮 Skill Gaming — Bet on Your Skills, Not Luck
@@ -207,20 +209,20 @@ Players join match-based competitions, pay an entry fee, and earn rewards by win
 - 🎯 AI/ML-driven matchmaking  
 - 🧠 Skill-based outcome, not RNG  
 - 🔗 Fully on-chain match results and payouts  
-- 💰 Multi-token support (USDT, TON, etc.)  
+- 💰 Multi-token support (USDT, SOL, TON, etc.)  
 - 🧾 Transparent reward distribution contracts
 
 ---
 
 ### 🌍 Market Insights — The Casual Skill Arena Is Massive
 
-- 🎮 **2 Billion** global casual gamers by 2024  
+- 🎮 **2 Billion** global casual gamers (2024)  
 - 📈 **$35B → $85B** projected growth in casual competitive game market (2023–2030)  
 - 💵 **Skillz (NYSE: SKLZ)** — a proven Web2 case:
   - 2.4M MAU  
   - $58 ARPPU  
   - $67.7M Q4 2020 revenue  
-  - Peaked at **$7B market cap**
+  - Peaked at **$12B market cap**
 
 > _“Skill-to-win is not a niche. It’s a new layer of global gaming monetization.”_
 
